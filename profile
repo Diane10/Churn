@@ -1,1 +1,1 @@
- web: sh setup.sh && streamlit run iris_webapp.py
+ web: sh setup.sh && streamlit run churn_prediction.py
